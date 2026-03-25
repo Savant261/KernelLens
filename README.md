@@ -1,4 +1,4 @@
-# KernelLens
+# KernelLens - A Real-Time Process Monitoring Dashboard
 
 KernelLens is a real-time process monitoring dashboard that provides real-time information on running processes and system parameters, similar to a task manager. It allows users to monitor system metrics like CPU and memory usage, and terminate processes directly from the dashboard. The backend is built using Flask, while the frontend uses HTML, CSS, and JavaScript for a responsive interface.
 
